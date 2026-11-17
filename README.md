@@ -1,1 +1,2 @@
 # BLINKIT
+fried rice
